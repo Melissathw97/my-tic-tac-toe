@@ -1,6 +1,3 @@
-![Screenshot of my tic-tac-toe](https://github.com/Melissathw97/my-tic-tac-toe/src/assets/images/tic-tac-toe.jpg?raw=true)
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
